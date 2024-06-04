@@ -1,4 +1,13 @@
-## Hi there 👋
+# Ben(ton) Bergstrom
+
+
+- Currently working on:
+  - Discord Bot decision maker
+  - Flatiron School's FullStack bootcamp
+  - Personal Website
+  - Prettifying my GitHub
+  
+
 
 <!--
 **bcbergstrom/bcbergstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
