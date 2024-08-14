@@ -1,11 +1,22 @@
 # Ben(ton) Bergstrom
-
+he/they
 
 - Currently working on:
-  - Discord Bot decision maker
   - Flatiron School's FullStack bootcamp
   - Personal Website
-  - Prettifying my GitHub
+- I'm currently learning
+  - RESTful API creation
+  - C# and ASP.NET
+  - Typescript
+  - Vite/Next.js
+  - Go
+- Ask me about:
+  - Magic the Gathering
+  - Gaming
+  - MMO's
+- How to reach me
+  - Reach me through [my LinkedIn Profile](https://www.linkedin.com/in/benton-bergstrom-98b57a220/)
+  - Can also email me at bbergstrom0524@gmail.com
   
 
 
