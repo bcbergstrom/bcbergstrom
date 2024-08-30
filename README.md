@@ -1,5 +1,4 @@
 # Ben(ton) Bergstrom
-he/they
 
 - Currently working on:
   - Flatiron School's FullStack bootcamp
