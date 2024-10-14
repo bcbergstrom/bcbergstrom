@@ -14,7 +14,7 @@
   - Gaming
   - MMO's
 - How to reach me
-  - Reach me through [my LinkedIn Profile](https://www.linkedin.com/in/benton-bergstrom-98b57a220/)
+  - Reach me through [my LinkedIn Profile]([https://www.linkedin.com/in/benton-bergstrom-98b57a220])
   - Can also email me at bbergstrom0524@gmail.com
   
 
