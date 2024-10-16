@@ -1,20 +1,18 @@
 # Ben(ton) Bergstrom
 
 - Currently working on:
-  - Flatiron School's FullStack bootcamp
-  - Personal Website
+  - Finding a Job
+  - Personal Website (passion project)
 - I'm currently learning
-  - RESTful API creation
-  - C# and ASP.NET
-  - Typescript
-  - Vite/Next.js
   - Go
+  - Discord.py
 - Ask me about:
   - Magic the Gathering
-  - Gaming
+  - API Design and Development
   - MMO's
+  - Teaching
 - How to reach me
-  - Reach me through [my LinkedIn Profile]([https://www.linkedin.com/in/benton-bergstrom-98b57a220])
+  - Reach me through [my LinkedIn Profile](https://www.linkedin.com/in/benton-bergstrom-98b57a220)
   - Can also email me at bbergstrom0524@gmail.com
   
 
