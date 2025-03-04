@@ -3,9 +3,11 @@
 - Currently working on:
   - Finding a Job
   - Personal Website (passion project)
+  - Bachelors of Science at Western Govenors University
 - I'm currently learning
-  - Go
+  - RxJS
   - Discord.py
+  - Brushing up on Angular
 - Ask me about:
   - Magic the Gathering
   - API Design and Development
