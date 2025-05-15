@@ -5,9 +5,7 @@
   - Personal Website (passion project)
   - Bachelors of Science at Western Govenors University
 - I'm currently learning
-  - RxJS
   - Discord.py
-  - Brushing up on Angular
 - Ask me about:
   - Magic the Gathering
   - API Design and Development
